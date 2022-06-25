@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1,
+        "username": "salim",
+        "password": "70f855d930674896298c35b35e12599992e1235a2e05379bb90b420e3ff8942f",
+        "email": "salim@gmail.com"
+    },
+    {
+        "username": "Shukurullo",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "email": "shukurulloh@gamil.com",
+        "user_id": 2
+    },
+    {
+        "username": "Aziz",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "email": "aziz@gamil.com",
+        "user_id": 3
+    }
+]
